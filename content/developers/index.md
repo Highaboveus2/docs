@@ -5,7 +5,7 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
----
+--- docs/content/developers/index.md
 
 {% link_with_intro /overview %}
 {% link_with_intro /webhooks-and-events %}
